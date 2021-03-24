@@ -1,5 +1,5 @@
 # Mathematical tricks for machine learning
-
+A list of cunning and skillful mathematic acts intended to outwit the simulation
 
 
 ### The Log-Sum-Exp Trick
