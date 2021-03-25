@@ -1,4 +1,4 @@
-# Truques matematicos para Aprendizado de Máquina
+# Truques matemáticos para Aprendizado de Máquina
 A list of cunning and skillful mathematical acts intended to outwit the simulation
 
 
